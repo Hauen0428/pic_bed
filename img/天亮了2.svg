@@ -1,0 +1,53 @@
+<svg id="组_2" data-name="组 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="136.028" height="19.989" viewBox="0 0 1606 236">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c6cac9;
+      }
+
+      .cls-1, .cls-4 {
+        stroke: #c6cac9;
+      }
+
+      .cls-1, .cls-2, .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 5px;
+        fill-rule: evenodd;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #ececec;
+      }
+
+      .cls-2 {
+        stroke: #ececec;
+      }
+
+      .cls-3 {
+        font-size: 54.167px;
+      }
+
+      .cls-3, .cls-5 {
+        font-family: KaiTi;
+      }
+
+      .cls-5 {
+        font-size: 21.311px;
+      }
+    </style>
+  </defs>
+  <g id="组_1" data-name="组 1">
+    <path id="形状_1" data-name="形状 1" class="cls-1" d="M83.083,78H359.917v87H83.9Z"/>
+    <path id="形状_1_拷贝" data-name="形状 1 拷贝" class="cls-2" d="M86.35,81h270.3v81H86.35V81Z"/>
+  </g>
+  <g id="组_1_拷贝" data-name="组 1 拷贝">
+    <path id="形状_1-2" data-name="形状 1" class="cls-1" d="M404.071,78H740.929v87H405.065Z"/>
+    <path id="形状_1_拷贝-2" data-name="形状 1 拷贝" class="cls-2" d="M408.046,81H736.954v81H408.046V81Z"/>
+  </g>
+  <image id="_50779ffbb3b74c94503fca199a280a9" data-name="50779ffbb3b74c94503fca199a280a9" x="664" y="90" width="67" height="66" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAvklEQVQImWL08/ObqqSk5CgpKSl48+bN5y9fvlxy8+bNPgAAAAD//2L68eOHSFRUlGZZWZmEu7u74YcPH5h//PjBAAAAAP//Yrpz507H79+/GUCcP3/+PH/w4MF+S0vLHQAAAAD//2JRUFAw+///P8OtW7f+s7Ky/jE0NJzAysr6DwAAAP//Ypg7d+5/ZFBdXf1fSEiIHwAAAP//YmZjY+NRVFSU+PDhA+Pp06dfLV++PPXbt2/nAAAAAP//AwDDhFMSJ354ywAAAABJRU5ErkJggg=="/>
+  <text id="狗狗伴学" class="cls-3" transform="translate(418.67 143.037) scale(1.051)">狗狗伴学</text>
+  <path id="三角形_1" data-name="三角形 1" class="cls-4" d="M373.5,119.488l29-22.7v45.406Z"/>
+  <image id="_51350485af06d5a1f422976e8f77f6d" data-name="51350485af06d5a1f422976e8f77f6d" x="97" y="90" width="75" height="62" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAFCAYAAABmWJ3mAAAAlUlEQVQImWJgYGBgBBEMDAycUMzAwMDACAAAAP//YmJgYBBnYGAQZGNj0JUVZbBkYGBgYmBgEAEAAAD//wJLB7gwh///wPX//2PO/9fms+3fXM/KDgAAAP//YmFgYPBQU2KMO3X+37+Pb/7/5PvH4LD91N8gAAAAAP//ApkvxcDAoMzAwCAPNeYSAwPDWwAAAAD//wMAiOsZ2Bqpc9QAAAAASUVORK5CYII="/>
+  <text id="天亮了" class="cls-5" transform="translate(182.238 142.021) scale(2.632 2.542)">天亮了</text>
+</svg>
